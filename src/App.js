@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="header">
-      <h1>Calculator 🧮</h1>
+      <h1>Simple Calculator 🧮</h1>
       <div className="calculator">
         <div className="display">
           <div className="display__input">{result}</div>
